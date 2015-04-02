@@ -1,0 +1,11 @@
+C:\Users\Louis\Desktop\ASP6\ASP6\obj\Debug\ASP6.vbprojResolveAssemblyReference.cache
+C:\Users\Louis\Desktop\ASP6\ASP6\obj\Debug\ASP6.Resources.resources
+C:\Users\Louis\Desktop\ASP6\ASP6\obj\Debug\ASP6.vbproj.GenerateResource.Cache
+C:\Users\Louis\Desktop\ASP6\ASP6\bin\ASP6.dll
+C:\Users\Louis\Desktop\ASP6\ASP6\bin\ASP6.pdb
+C:\Users\Louis\Desktop\ASP6\ASP6\bin\ASP6.xml
+C:\Users\Louis\Desktop\ASP6\ASP6\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Louis\Desktop\ASP6\ASP6\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\Louis\Desktop\ASP6\ASP6\obj\Debug\ASP6.dll
+C:\Users\Louis\Desktop\ASP6\ASP6\obj\Debug\ASP6.xml
+C:\Users\Louis\Desktop\ASP6\ASP6\obj\Debug\ASP6.pdb

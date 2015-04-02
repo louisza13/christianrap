@@ -1,0 +1,45 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="ASP6.master.vb" Inherits="ASP6.ASP61" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="ASP5StyleSheet.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id ="banner">
+           
+       <asp:Label ID="Label12" runat="server" Text="RBI Camp"></asp:Label>
+        <br />
+        <asp:Label ID="Label13" runat="server" Text="&quot;Reviving Baseball in Inner-Cities&quot;"></asp:Label>
+        <br />
+       <br />
+      
+        <img alt="Baseball" class="auto-style1" src="BaseballPhoto.jpg" /><br />
+    
+    </div>
+
+    <div >
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+            <p>
+            </p>
+            <p>
+            </p>
+        
+        </asp:ContentPlaceHolder>
+    </div>
+
+    <div id ="footer">
+
+        <br />
+
+        Website created by Louis Andres<br />
+        Email - Louis.a@sbcglobal.net</div>
+    </form>
+</body>
+</html>

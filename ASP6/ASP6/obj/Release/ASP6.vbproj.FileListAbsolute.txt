@@ -1,0 +1,10 @@
+C:\Users\Louis\Desktop\ASP6\ASP6\bin\ASP6.dll
+C:\Users\Louis\Desktop\ASP6\ASP6\bin\ASP6.pdb
+C:\Users\Louis\Desktop\ASP6\ASP6\bin\ASP6.xml
+C:\Users\Louis\Desktop\ASP6\ASP6\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Louis\Desktop\ASP6\ASP6\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\Louis\Desktop\ASP6\ASP6\obj\Release\ASP6.Resources.resources
+C:\Users\Louis\Desktop\ASP6\ASP6\obj\Release\ASP6.vbproj.GenerateResource.Cache
+C:\Users\Louis\Desktop\ASP6\ASP6\obj\Release\ASP6.dll
+C:\Users\Louis\Desktop\ASP6\ASP6\obj\Release\ASP6.xml
+C:\Users\Louis\Desktop\ASP6\ASP6\obj\Release\ASP6.pdb
